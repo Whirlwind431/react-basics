@@ -8,6 +8,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <h2>Hello World!</h2>
   </React.StrictMode>
 );
 
